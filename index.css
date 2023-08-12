@@ -41,6 +41,9 @@
     align-items: center;
 
 }
+.bg{
+    background-color: rgb(41, 11, 140);
+}
 
 .middle-content{
     display: flex;
